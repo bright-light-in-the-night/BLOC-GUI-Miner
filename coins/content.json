@@ -4,13 +4,15 @@
       "name": "BLOC",
       "abbr": "BLOC",
       "coin_type": "bloc",
-      "coin_algo": "cryptonight_haven"
+      "coin_algo": "cryptonight_haven",
+      "prefix": "abLoc"
     },
     {
       "name": "TurtleCoin",
       "abbr": "TRTL",
       "coin_type": "turtlecoin",
-      "coin_algo": "cryptonight_lite_v7"
+      "coin_algo": "cryptonight_lite_v7",
+      "prefix": "TRTL"
     }
   ],
   "abbr": {
