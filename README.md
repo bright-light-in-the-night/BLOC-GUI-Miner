@@ -1,4 +1,4 @@
-![in BLOC we trust logo](DOCS/images/bloc-logo-intro.png)
+![BLOC Animated logo](https://wiki.bloc.money/images/BLOC-in-out_blue.gif)
 
 # BLOC GUI Miner
 
